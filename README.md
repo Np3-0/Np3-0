@@ -1,3 +1,2 @@
 - HS student trying to figure out comp sci
 - Java, Python, C#, whatever else
-- _np3 on Discord if you want to hear my nonsensical ramblings
