@@ -1,2 +1,1 @@
-- HS student trying to figure out comp sci
-- Java, Python, C#, whatever else
+
